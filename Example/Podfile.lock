@@ -1,0 +1,23 @@
+PODS:
+  - Masonry (1.1.0)
+  - WPTVideoRecorder (0.1.0)
+
+DEPENDENCIES:
+  - Masonry
+  - WPTVideoRecorder (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Masonry
+
+EXTERNAL SOURCES:
+  WPTVideoRecorder:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  WPTVideoRecorder: 215b6d6420b63a4923bd484b24d4a376c5bad975
+
+PODFILE CHECKSUM: b28ed31090416caf15e8210a93fd5e232a73676e
+
+COCOAPODS: 1.10.2

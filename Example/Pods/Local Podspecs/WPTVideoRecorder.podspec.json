@@ -1,0 +1,22 @@
+{
+  "name": "WPTVideoRecorder",
+  "version": "0.1.0",
+  "summary": "A short description of WPTVideoRecorder.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://gitlab.weipaitang.com/iOS-Group/WPTVideoRecorder",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "styf": "shentyf@weipaitang.com"
+  },
+  "source": {
+    "git": "https://gitlab.weipaitang.com/iOS-Group/WPTVideoRecorder.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "WPTVideoRecorder/Classes/**/*"
+}
