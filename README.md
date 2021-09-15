@@ -1,4 +1,4 @@
-<img src="/Users/styf/Downloads/ruby_app/STYFMultiSegmentVideoRecorder/IMG_0632.PNG" alt="IMG_0632" style="zoom: 25%;" />
+<img src="IMG_0632.PNG" alt="IMG_0632" style="zoom: 25%;" />
 
 #### 短视频分段录制功能设计
 
